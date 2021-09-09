@@ -22,6 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Visual Studio Code](https://code.visualstudio.com)
 - [MySQL](https://www.mysql.com)
 - [Bootstrap](https://getbootstrap.com)
+
 [![PHP](https://img.shields.io/packagist/php-v/symfony/symfony)](https://img.shields.io/packagist/php-v/symfony/symfony)
 
   
